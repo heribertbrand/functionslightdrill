@@ -8,4 +8,4 @@ function minNumber(a, b) {
   }
 }
 
-console.log(minNumber(10, 20));
+console.log(minNumber(10, 20))
