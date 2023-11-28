@@ -8,4 +8,4 @@ function maxNumber (a, b) {
   }
 }
 
-console.log(maxNumber(1000, 5000));
+console.log(maxNumber(1000, 5000))
